@@ -6,7 +6,7 @@ Informal notes/write ups of VulnHub machines
 
 [Level 1.1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Kioptrix/Level%201.1.pdf)
 
-[Level 1.2]()
+[Level 1.2]((https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Kioptrix/Level%201.2.pdf)
 
 [Level 1.3]()
 
