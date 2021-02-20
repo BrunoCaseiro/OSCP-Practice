@@ -1,7 +1,7 @@
 # VulnHub-Notes
 Informal notes/write ups of VulnHub machines
 
-# Kioptrix
+# [Kioptrix](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/Kioptrix)
 [Level 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Kioptrix/Level%201.pdf)
 
 [Level 1.1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Kioptrix/Level%201.1.pdf)
