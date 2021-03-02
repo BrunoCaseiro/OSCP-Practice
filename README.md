@@ -13,3 +13,5 @@ Informal notes/write ups of VulnHub machines
 # [Stapler 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Stapler%201.pdf)
 
 # [VulnOS 2](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/VulnOS%202.pdf)
+
+# [SickOs 1.2]
