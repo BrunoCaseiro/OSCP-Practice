@@ -15,4 +15,5 @@ Informal notes/write ups of VulnHub machines
 # [VulnOS 2](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/VulnOS%202.pdf)
 ###### Yes, I did change my terminal's theme midway through VulnOs's writeup
 
-# [SickOs 1.2]
+# [SickOs 1.2](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/SickOs%201.2.pdf)
+###### Incomplete, had tons of problems with VirtualBox
