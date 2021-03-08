@@ -17,3 +17,5 @@ Informal notes/write ups of VulnHub machines
 
 # [SickOs 1.2](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/SickOs%201.2.pdf)
 ###### Incomplete, had tons of problems with VirtualBox
+
+# [HackLAB:Vulnix](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/HackLAB_%20Vulnix.pdf)
