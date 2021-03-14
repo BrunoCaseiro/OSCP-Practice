@@ -19,3 +19,5 @@ Informal notes/write ups of VulnHub machines
 ###### Incomplete, had tons of problems with VirtualBox
 
 # [HackLAB:Vulnix](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/HackLAB_%20Vulnix.pdf)
+
+# [pWnOS 2.0](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/pWnOS%202.0.pdf)
