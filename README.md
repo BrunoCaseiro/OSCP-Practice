@@ -21,3 +21,5 @@ Informal notes/write ups of VulnHub machines
 # [HackLAB:Vulnix](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/HackLAB_%20Vulnix.pdf)
 
 # [pWnOS 2.0](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/pWnOS%202.0.pdf)
+
+# [SkyTower 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/SkyTower%201.pdf)
