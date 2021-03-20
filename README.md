@@ -23,3 +23,5 @@ Informal notes/write ups of VulnHub machines
 # [pWnOS 2.0](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/pWnOS%202.0.pdf)
 
 # [SkyTower 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/SkyTower%201.pdf)
+
+# [Mr Robot 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Mr%20Robot%201.pdf)
