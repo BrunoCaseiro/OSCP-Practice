@@ -1,6 +1,7 @@
 # VulnHub-Notes
 Informal notes/write ups of the VulnHub machines listed here: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0
-I'm skipping ones which lead to a lot of trouble with VirtualBox
+
+Some machines gave me a lot of trouble with VirtualBox so I skipped some of those
 
 # [Kioptrix](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/Kioptrix)
 [Level 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Kioptrix/Level%201.pdf)
