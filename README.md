@@ -28,4 +28,4 @@ Some machines gave me a lot of trouble with VirtualBox so I skipped some of thos
 
 # [Mr Robot 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Mr%20Robot%201.pdf)
 
-#[Lin.Security 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Lin.Security%201.pdf)
+# [Lin.Security 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Lin.Security%201.pdf)
