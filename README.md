@@ -32,3 +32,5 @@ Some machines gave me a lot of trouble with VirtualBox so I skipped some of thos
 
 # [Temple Of Doom](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Temple%20Of%20Doom.pdf)
 ###### Incomplete, virtual machine problems
+
+# [Zico2] (https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Zico2.pdf)
