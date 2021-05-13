@@ -36,3 +36,5 @@ Some machines gave me a lot of trouble with VirtualBox, others were VMWare only,
 # [Zico2](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Zico2.pdf)
 
 # [Tr0ll 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Tr0ll%201.pdf)
+
+# [Web Developer 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Web%20Developer%201.pdf)
