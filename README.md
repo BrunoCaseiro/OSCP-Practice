@@ -1,7 +1,7 @@
 # VulnHub-Notes
-Informal notes/write ups of the VulnHub machines listed [here](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8)
+Informal notes/write ups of the VulnHub machines listed [here](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8), some where skipped due to VM problems
 
-Some machines gave me a lot of trouble with VirtualBox, others were VMWare only, so I just skipped some of those
+The below list is in chronological order, so the top items were wrriten first by a less-experienced-me 
 
 # [Kioptrix](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/Kioptrix)
 [Level 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Kioptrix/Level%201.pdf)
