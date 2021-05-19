@@ -1,5 +1,5 @@
 # VulnHub-Notes
-Informal notes/write ups of the VulnHub machines listed here: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0
+Informal notes/write ups of the VulnHub machines listed [here](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8)
 
 Some machines gave me a lot of trouble with VirtualBox, others were VMWare only, so I just skipped some of those
 
