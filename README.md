@@ -38,3 +38,5 @@ The below list is in chronological order, so the top items were wrriten first by
 # [Tr0ll 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Tr0ll%201.pdf)
 
 # [Web Developer 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Web%20Developer%201.pdf)
+
+# [DC 6](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DC%206.pdf)
