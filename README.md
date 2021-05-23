@@ -41,4 +41,4 @@ The below list is in chronological order, so the top items were wrriten first by
 
 # [DC 6](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DC%206.pdf)
 
-#[DC 0](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DC%209.pdf)
+# [DC 9](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DC%209.pdf)
