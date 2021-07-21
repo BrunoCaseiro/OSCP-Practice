@@ -39,6 +39,16 @@ The below list is in chronological order, so the top items were wrriten first by
 
 # [Web Developer 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Web%20Developer%201.pdf)
 
-# [DC 6](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DC%206.pdf)
+# [DC](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/DC)
+[DC 6](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DC/DC%206.pdf)
 
-# [DC 9](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DC%209.pdf)
+[DC 9](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DC/DC%209.pdf)
+
+# [DigitalWorld.local](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/DigitalWorld.local)
+[Bravery](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DigitalWorld.local/bravery.pdf)
+
+[Development]()
+
+[Mercy V2]()
+
+[JOY]()
