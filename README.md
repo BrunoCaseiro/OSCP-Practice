@@ -45,7 +45,7 @@ The below list is in chronological order, so the top items were wrriten first by
 [DC 9](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DC/DC%209.pdf)
 
 # [DigitalWorld.local](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/DigitalWorld.local)
-[Bravery](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DigitalWorld.local/bravery.pdf)
+[Bravery](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DigitalWorld.local/Bravery.pdf)
 
 [Development]
 
