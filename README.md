@@ -52,3 +52,5 @@ The below list is in chronological order, so the top items were wrriten first by
 [Mercy V2](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DigitalWorld.local/Mercy%20v2.pdf)
 
 [JOY](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DigitalWorld.local/JOY.pdf)
+
+[Prime 1]()
