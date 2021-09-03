@@ -53,4 +53,4 @@ The below list is in chronological order, so the top items were wrriten first by
 
 [JOY](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/DigitalWorld.local/JOY.pdf)
 
-[Prime 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Prime%201.pdf)
+# [Prime 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Prime%201.pdf)
