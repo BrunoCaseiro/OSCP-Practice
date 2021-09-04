@@ -55,5 +55,5 @@ The below list is in chronological order, so the top items were wrriten first by
 
 # [Prime 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Prime%201.pdf)
 
-# [Symfonos]()
-[Symfonos 1]()
+# [Symfonos](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/Symfonos)
+[Symfonos 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Symfonos/Symfonos%201.pdf)
