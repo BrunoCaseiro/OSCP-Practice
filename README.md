@@ -57,3 +57,4 @@ The below list is in chronological order, so the top items were wrriten first by
 
 # [Symfonos](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/Symfonos)
 [Symfonos 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Symfonos/Symfonos%201.pdf)
+[Symfonos 2](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Symfonos/Symfonos%202.pdf)
