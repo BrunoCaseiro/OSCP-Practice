@@ -5,6 +5,8 @@ The below list is in chronological order, so the top items were wrriten first by
 
 <b>UPDATE (Feb 2022):</b> I'm now fairly decent at CTFs, hooray :D for that reason I'm abandoning this list as it seem to be more focused towards beginners. For now, I'll be focusing on Hack The Box (easy and medium boxes), on becoming a Burp Suite Certified Practitioner and writing better scripts and exploits. Finally, I'll be learning Windows and AD exploitation (damn you, new OSCP!!!), which is something that I currently struggle with, compared to the rest of my skills repertoire. 
 
+[BrunoHomemade @ HackTheBox](https://app.hackthebox.com/profile/420159)
+
 # [Kioptrix](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/Kioptrix)
 [Level 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Kioptrix/Level%201.pdf)
 
