@@ -1,7 +1,7 @@
 # OSCP Practice
 Notes and writeups of [TJ Null's list of machines similar to the OSCP exam](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8), some were skipped due to VM problems
 
-The below list is in chronological order, so the top items were wrriten first by a less experienced me
+The below list is in chronological order. The top items were wrriten first by a less experienced me, so the more recent walkthroughs should be more representative of my current skillset.
 
 -----------------
 <b>UPDATE Jun 2022:</b> I'm currently starting to seriously study for the OSCP, so I'll be dedicating more time and effort to these writeups. Naturally, the earlier walkthroughs might look a bit more informal and rushed.
