@@ -3,8 +3,16 @@ Notes and writeups of [TJ Null's list of machines similar to the OSCP exam](http
 
 The below list is in chronological order, so the top items were wrriten first by a less experienced me
 
+-----------------
+<b>UPDATE Jun 2022:</b> I'm currently starting to seriously study for the OSCP, so I'll be dedicating more time and effort to these writeups. Naturally, the earlier walkthroughs might look a bit more informal and rushed.
+
+Hopefully I can take the exam in late 2022 or early 2023.
+
+I have also been very active on Hack The Box, check me out below. 
 
 [BrunoHomemade @ HackTheBox](https://app.hackthebox.com/profile/420159)
+
+-----------------
 
 # [Kioptrix](https://github.com/BrunoCaseiro/VulnHub-Notes/tree/main/Kioptrix)
 [Level 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Kioptrix/Level%201.pdf)
