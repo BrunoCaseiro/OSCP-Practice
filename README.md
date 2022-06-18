@@ -79,3 +79,21 @@ I have also been very active on Hack The Box, check me out below.
 # [EVM](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/EVM.pdf)
 
 # [FristiLeaks 1.3](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/FristiLeaks%201.3.pdf)
+
+# [/dev/random: scream]()
+
+# [PwnLab]()
+
+# [Pinkys Palace v2]()
+
+# [Wintermute]()
+
+# [Tr0ll 2]()
+
+# [SolidState]()
+
+# [Hackme 1]()
+
+# [Escalate_Linux 1]()
+
+
