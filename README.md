@@ -80,20 +80,20 @@ I have also been very active on Hack The Box, check me out below.
 
 # [FristiLeaks 1.3](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/FristiLeaks%201.3.pdf)
 
-# [/dev/random: scream]()
+# [/dev/random: scream]
 
-# [PwnLab]()
+# [PwnLab]
 
-# [Pinkys Palace v2]()
+# [Pinkys Palace v2]
 
-# [Wintermute]()
+# [Wintermute]
 
-# [Tr0ll 2]()
+# [Tr0ll 2]
 
-# [SolidState]()
+# [SolidState]
 
-# [Hackme 1]()
+# [Hackme 1]
 
-# [Escalate_Linux 1]()
+# [Escalate_Linux 1]
 
 
