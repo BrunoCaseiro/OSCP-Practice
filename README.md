@@ -80,7 +80,7 @@ I have also been very active on Hack The Box, check me out below.
 
 # [FristiLeaks 1.3](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/FristiLeaks%201.3.pdf)
 
-# [PwnLab]
+# [PwnLab](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/PwnLab.pdf)
 
 # [Pinkys Palace v2]
 
