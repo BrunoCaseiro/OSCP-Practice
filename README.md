@@ -84,7 +84,7 @@ I have also been very active on Hack The Box, check me out below.
 
 # [Wintermute](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Wintermute.pdf)
 
-# [Tr0ll 2]
+# [Tr0ll 2](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Tr0ll%202.pdf)
 
 # [SolidState]
 
