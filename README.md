@@ -45,7 +45,10 @@ I have also been very active on Hack The Box, check me out below.
 
 # [Zico2](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Zico2.pdf)
 
-# [Tr0ll 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Tr0ll%201.pdf)
+# [Tr0ll](https://github.com/BrunoCaseiro/OSCP-Practice/tree/main/Tr0ll)
+[Tr0ll 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Tr0ll/Tr0ll%201.pdf)
+
+[Tr0ll 2](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Tr0ll/Tr0ll%202.pdf)
 
 # [Web Developer 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Web%20Developer%201.pdf)
 
@@ -83,8 +86,6 @@ I have also been very active on Hack The Box, check me out below.
 # [PwnLab](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/PwnLab.pdf)
 
 # [Wintermute](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Wintermute.pdf)
-
-# [Tr0ll 2](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Tr0ll%202.pdf)
 
 # [SolidState]
 
