@@ -86,8 +86,6 @@ I have also been very active on Hack The Box, check me out below.
 
 # [Wintermute](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Wintermute.pdf)
 
-# [SolidState]
-
 # [Hackme 1]
 
 # [Escalate_Linux 1]
