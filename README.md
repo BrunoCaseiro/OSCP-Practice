@@ -85,9 +85,3 @@ I have also been very active on Hack The Box, check me out below.
 # [PwnLab](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/PwnLab.pdf)
 
 # [Wintermute](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Wintermute.pdf)
-
-# [Hackme 1]
-
-# [Escalate_Linux 1]
-
-
