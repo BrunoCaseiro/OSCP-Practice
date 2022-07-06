@@ -1,15 +1,9 @@
 # OSCP Practice
-Notes and writeups of [TJ Null's list of machines similar to the OSCP exam](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8), some were skipped due to VM problems
+Notes and writeups of [TJ Null's list of machines similar to the OSCP exam](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8), some were skipped due to VM problems.
 
+These are not to be taken as detailed walkthroughs, as they work more like a history of what I have been doing and the paths and solutions I have taken to solve these boxes.
 
------------------
-<b>UPDATE Jun 2022:</b> I'm currently starting to seriously study for the OSCP, so I'll be dedicating more time and effort to these writeups. Naturally, the earlier walkthroughs might look a bit more informal and rushed.
-
-Hopefully I can take the exam in late 2022 or early 2023.
-
-I have also been very active on Hack The Box, check me out below. 
-
-[BrunoHomemade @ HackTheBox](https://app.hackthebox.com/profile/420159)
+I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheBox](https://app.hackthebox.com/profile/420159)
 
 -----------------
 
