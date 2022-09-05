@@ -85,3 +85,5 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 # [Misdirection 1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Misdirection%201.pdf)
 
 # [DerpNStink 1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/DerpNStink%201.pdf)
+
+# [RickdiculouslyEasy 1]()
