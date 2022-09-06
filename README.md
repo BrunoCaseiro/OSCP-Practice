@@ -91,3 +91,5 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 # [Tommy Boy 1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Tommy%20Boy%201.pdf)
 
 # [Breach 1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Breach%201.pdf)
+
+# [NullByte](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/NullByte.pdf)
