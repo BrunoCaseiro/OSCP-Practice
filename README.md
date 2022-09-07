@@ -68,7 +68,7 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 
 [Symfonos 2](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Symfonos/Symfonos%202.pdf)
 
-[Symfonos 3.1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Symfonos/Symfonos%203.pdf)
+[Symfonos 3](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Symfonos/Symfonos%203.pdf)
 
 # [Sar 1](https://github.com/BrunoCaseiro/VulnHub-Notes/blob/main/Sar.pdf)
 
@@ -93,3 +93,5 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 # [Breach 1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Breach%201.pdf)
 
 # [NullByte](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/NullByte.pdf)
+
+# [Bob 1.0.1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Bob%201.0.1.pdf)
