@@ -97,3 +97,5 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 # [Bob 1.0.1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Bob%201.0.1.pdf)
 
 # [Toppo 1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Toppo%201.pdf)
+
+# [W34kn3ss 1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/W34kn3ss%201.pdf)
