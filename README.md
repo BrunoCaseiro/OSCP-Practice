@@ -102,4 +102,4 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 
 # [GoldenEye 1](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/GoldenEye%201.pdf)
 
-# [InfoSec Prep OSCP](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/InfoSec%20Prep%OSCP.pdf)
+# [InfoSec Prep OSCP](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/InfoSec%20Prep%20OSCP.pdf)
