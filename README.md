@@ -105,3 +105,5 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 # [InfoSec Prep OSCP](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/InfoSec%20Prep%20OSCP.pdf)
 
 # [LemonSqueezy](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/LemonSqueezy.pdf)
+
+# [Lord Of The Root](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Lord%20Of%20The%20Root.pdf)
