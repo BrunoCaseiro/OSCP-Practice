@@ -106,4 +106,3 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 
 # [LemonSqueezy](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/LemonSqueezy.pdf)
 
-# [Lord Of The Root](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Lord%20Of%20The%20Root.pdf)
