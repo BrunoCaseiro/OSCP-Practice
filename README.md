@@ -112,6 +112,4 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 
 # [Photographer](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Photographer.pdf)
 
-# [DevGuru](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/DevGuru.pdf)
-
 # [Hack Me Please](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Hack%20Me%20Please.pdf)
