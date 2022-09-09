@@ -116,6 +116,4 @@ I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheB
 
 # [DevGuru](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/DevGuru.pdf)
 
-# [Alpha](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Alpha.pdf)
-
 # [Hack Me Please](https://github.com/BrunoCaseiro/OSCP-Practice/blob/main/Hack%20Me%20Please.pdf)
