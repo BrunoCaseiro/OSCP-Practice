@@ -5,7 +5,7 @@ These are not to be taken as detailed walkthroughs, as they work more like a his
 
 I'm also very active on Hack The Box, check me out --> [BrunoHomemade @ HackTheBox](https://app.hackthebox.com/profile/420159)
 
-UPDATE [9th September 2022] --> Finished nearly every system considered similar to the previous/current OSCP course. I will be oficially enrolling in the OSCP course soon and start rooting the PG Practice machines recommended by TJ Null
+# [UPDATE [9th September 2022]] --> Finished nearly every system considered similar to the previous/current OSCP course. I will be oficially enrolling in the OSCP course soon and start rooting the PG Practice machines recommended by TJ Null
 
 -----------------
 
